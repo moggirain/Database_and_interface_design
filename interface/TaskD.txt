@@ -1,0 +1,7 @@
+http://betaweb.csug.rochester.edu/~xwan3/welcome.html
+http://betaweb.csug.rochester.edu/~xwan3/member_view.html
+http://betaweb.csug.rochester.edu/~xwan3/member_search.html
+http://betaweb.csug.rochester.edu/~xwan3/member_modify.html (Modify Strain works but Current_cage needs some modification)
+
+
+                         
